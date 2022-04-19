@@ -35,6 +35,7 @@ https://fpgasoftware.intel.com/eula.
 		(line (pt 109 12)(pt 113 8))
 	)
 	(text "VCC" (rect 128 7 148 17)(font "Arial" (font_size 6)))
+	(annotation_block (location)(rect 232 328 288 352))
 )
 (pin
 	(input)
@@ -51,6 +52,7 @@ https://fpgasoftware.intel.com/eula.
 		(line (pt 109 12)(pt 113 8))
 	)
 	(text "VCC" (rect 128 7 148 17)(font "Arial" (font_size 6)))
+	(annotation_block (location)(rect 112 136 168 160))
 )
 (pin
 	(input)
@@ -67,6 +69,7 @@ https://fpgasoftware.intel.com/eula.
 		(line (pt 109 12)(pt 113 8))
 	)
 	(text "VCC" (rect 128 7 148 17)(font "Arial" (font_size 6)))
+	(annotation_block (location)(rect 112 168 168 192))
 )
 (pin
 	(input)
@@ -83,10 +86,11 @@ https://fpgasoftware.intel.com/eula.
 		(line (pt 109 12)(pt 113 8))
 	)
 	(text "VCC" (rect 128 7 148 17)(font "Arial" (font_size 6)))
+	(annotation_block (location)(rect 112 200 168 224))
 )
 (pin
 	(output)
-	(rect 664 80 840 96)
+	(rect 640 40 816 56)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
 	(text "MILK_M" (rect 90 0 128 12)(font "Arial" ))
 	(pt 0 8)
@@ -99,10 +103,11 @@ https://fpgasoftware.intel.com/eula.
 		(line (pt 82 8)(pt 78 12))
 		(line (pt 78 12)(pt 82 8))
 	)
+	(annotation_block (location)(rect 816 56 872 80))
 )
 (pin
 	(output)
-	(rect 680 112 856 128)
+	(rect 640 120 816 136)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
 	(text "COFFEE_J" (rect 90 0 146 12)(font "Arial" ))
 	(pt 0 8)
@@ -115,6 +120,7 @@ https://fpgasoftware.intel.com/eula.
 		(line (pt 82 8)(pt 78 12))
 		(line (pt 78 12)(pt 82 8))
 	)
+	(annotation_block (location)(rect 816 136 872 160))
 )
 (pin
 	(output)
@@ -131,6 +137,7 @@ https://fpgasoftware.intel.com/eula.
 		(line (pt 82 8)(pt 78 12))
 		(line (pt 78 12)(pt 82 8))
 	)
+	(annotation_block (location)(rect 913 208 969 232))
 )
 (symbol
 	(rect 376 128 440 176)
